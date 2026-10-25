@@ -1,1 +1,11 @@
-# rl-monte-carlo-methods
+# variational-autoencoder
+
+## Citations
+```bibtex
+@article{kingma2013auto,
+  title={Auto-encoding variational bayes},
+  author={Kingma, Diederik P and Welling, Max},
+  journal={arXiv preprint arXiv:1312.6114},
+  year={2013}
+}
+```
